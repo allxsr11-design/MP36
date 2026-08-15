@@ -1,0 +1,6 @@
+{
+  "name": "Pic to PDF",
+  "description": "Convert pictures, camera captures, and gallery images to high-quality PDF documents with Apple-inspired sleek design, filters, reordering, page margins, and instant sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

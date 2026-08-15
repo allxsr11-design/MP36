@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="400dp"
+    android:height="500dp"
+    android:viewportWidth="400"
+    android:viewportHeight="500">
+    <!-- Sky gradient -->
+    <path
+        android:pathData="M0,0h400v500h-400z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="270"
+                android:endColor="#FFEAA7"
+                android:startColor="#0984E3"
+                android:type="linear" />
+        </aapt:attr>
+    </path>
+    <!-- Sun -->
+    <path
+        android:fillColor="#FF7675"
+        android:pathData="M200,220m-60,0a60,60 0,1 1,120 0a60,60 0,1 1,-120 0" />
+    <!-- Mountains -->
+    <path
+        android:fillColor="#6C5CE7"
+        android:pathData="M0,350L120,230L260,370L340,300L400,360L400,500L0,500Z" />
+    <path
+        android:fillColor="#2D3436"
+        android:pathData="M0,420L90,360L200,450L290,380L400,460L400,500L0,500Z" />
+</vector>

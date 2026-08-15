@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="400dp"
+    android:height="500dp"
+    android:viewportWidth="400"
+    android:viewportHeight="500">
+    <path
+        android:fillColor="#F8F9FA"
+        android:pathData="M20,20h360v460h-360z" />
+    <path
+        android:fillColor="#E9ECEF"
+        android:pathData="M20,20h360v80h-360z" />
+    <path
+        android:fillColor="#007AFF"
+        android:pathData="M50,45h80v30h-80z" />
+    <path
+        android:fillColor="#343A40"
+        android:pathData="M250,52h100v16h-100z" />
+    <path
+        android:fillColor="#6C757D"
+        android:pathData="M50,130h140v14h-140z" />
+    <path
+        android:fillColor="#ADB5BD"
+        android:pathData="M50,155h200v10h-200z" />
+    <path
+        android:fillColor="#ADB5BD"
+        android:pathData="M50,175h180v10h-180z" />
+    <path
+        android:fillColor="#DEE2E6"
+        android:pathData="M50,220h300v2h-300z" />
+    <path
+        android:fillColor="#495057"
+        android:pathData="M50,240h120v12h-120z" />
+    <path
+        android:fillColor="#495057"
+        android:pathData="M280,240h70v12h-70z" />
+    <path
+        android:fillColor="#495057"
+        android:pathData="M50,270h100v12h-100z" />
+    <path
+        android:fillColor="#495057"
+        android:pathData="M280,270h70v12h-70z" />
+    <path
+        android:fillColor="#495057"
+        android:pathData="M50,300h140v12h-140z" />
+    <path
+        android:fillColor="#495057"
+        android:pathData="M280,300h70v12h-70z" />
+    <path
+        android:fillColor="#DEE2E6"
+        android:pathData="M50,340h300v2h-300z" />
+    <path
+        android:fillColor="#212529"
+        android:pathData="M200,360h60v16h-60z" />
+    <path
+        android:fillColor="#007AFF"
+        android:pathData="M280,360h70v16h-70z" />
+    <path
+        android:fillColor="#E9ECEF"
+        android:pathData="M50,410h300v45h-300z" />
+</vector>
